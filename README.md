@@ -17,7 +17,7 @@ TrajeR support several distributions
 
 - Censored (or regular) Normal distribution ;
 - Zero Inflated Poisson distribution ;
-- Poisson ditribution ;
+- Poisson distribution ;
 - Bernouilli distribution ;
 - Beta distribution (only withe Likelihood) ;
 - Non linear regression.
@@ -29,7 +29,7 @@ The trajectories of each clusters are modeling by polynomials. We have the possi
 To get the current released version from CRAN:
 
 ```{r}
-# Comming soon
+# Available on CRAN
 ```
 
 To get the current development version from Github:
